@@ -1,0 +1,15 @@
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\Nesne-programlama-odev2.exe
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\Nesne-programlama-odev2.deps.json
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\Nesne-programlama-odev2.runtimeconfig.json
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\Nesne-programlama-odev2.dll
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\ref\Nesne-programlama-odev2.dll
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\bin\Debug\net6.0\Nesne-programlama-odev2.pdb
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.csproj.AssemblyReference.cache
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.AssemblyInfoInputs.cache
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.AssemblyInfo.cs
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.csproj.CoreCompileInputs.cache
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.dll
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\ref\Nesne-programlama-odev2.dll
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.pdb
+A:\Projects\Nesne-programlama-odev\Nesne-programlama-odev2\obj\Debug\net6.0\Nesne-programlama-odev2.genruntimeconfig.cache

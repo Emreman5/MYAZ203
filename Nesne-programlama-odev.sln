@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne-programlama-odev1", "Nesne-programlama-odev1\Nesne-programlama-odev1.csproj", "{21DFE4B1-CE56-4364-A2B2-0988BD4615B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne-programlama-odev2", "Nesne-programlama-odev2\Nesne-programlama-odev2.csproj", "{0BE74346-457F-443E-B0FD-B1151BF5C103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DFE4B1-CE56-4364-A2B2-0988BD4615B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DFE4B1-CE56-4364-A2B2-0988BD4615B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DFE4B1-CE56-4364-A2B2-0988BD4615B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DFE4B1-CE56-4364-A2B2-0988BD4615B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE74346-457F-443E-B0FD-B1151BF5C103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE74346-457F-443E-B0FD-B1151BF5C103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE74346-457F-443E-B0FD-B1151BF5C103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE74346-457F-443E-B0FD-B1151BF5C103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
